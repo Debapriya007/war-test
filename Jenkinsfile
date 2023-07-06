@@ -1,4 +1,4 @@
-node('slave'){
+node{
     
     stage( 'code checkout'){
         echo 'checking the code from git repo'
